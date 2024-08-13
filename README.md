@@ -1,6 +1,6 @@
 <h2> Hi, I'm Kass! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVtZzF0ZWtidjN3bTJjcm1wcDF0ZXJ4OGx6cmU5NzZ6Mmw1NDAzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dWxO36Jzd6bTSt5dIY/giphy.gif" width="210">
-<p><em>Software Enginner<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB5Y2Z5Z3kyZWw1ZGtlbDdzamlxaGh1dWJ0bnc5dmxpYTZ3OWQxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Product Designer<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBrZWpic2ozN3JncnpsenhtOXlmcDh3dWxxeWt2MjZjdjhhczNpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MAcqfBGahLB7WYGeBZ/giphy.gif" width="30"> 
+<p><em>Software Engineer<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB5Y2Z5Z3kyZWw1ZGtlbDdzamlxaGh1dWJ0bnc5dmxpYTZ3OWQxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Product Designer<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBrZWpic2ozN3JncnpsenhtOXlmcDh3dWxxeWt2MjZjdjhhczNpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MAcqfBGahLB7WYGeBZ/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: kfharoun](https://img.shields.io/badge/-kfharoun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kfharoun/)](https://www.linkedin.com/in/kfharoun/)
