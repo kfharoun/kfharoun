@@ -18,6 +18,5 @@ const kass = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with folks!</b> so if you want to say <b>hi, I'd love that!</b> :)</em>
 ---
