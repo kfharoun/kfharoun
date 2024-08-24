@@ -14,7 +14,7 @@ const kass = {
   pronouns: "she" | "her",
   code: [JavaScript, Python, HTML, CSS, React, SCSS],
   tools: [Node, Express, MongoDB, Bootstrap, Figma],
-  aBitMore: "After five years in design, I'm transitioning my career into tech! I’m excited to blend my design background with coding to bring innovative ideas to life :)"
+  workingOn: "a new shopify theme!"
 }
 ```
 
