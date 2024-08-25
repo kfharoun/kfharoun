@@ -12,9 +12,9 @@
 ```javascript
 const kass = {
   pronouns: "she" | "her",
-  code: [JavaScript, Python, HTML, CSS, React, SCSS],
+  code: [JavaScript, Python, HTML, CSS, React, SCSS, Liquid, Ruby],
   tools: [Node, Express, MongoDB, Bootstrap, Figma],
-  workingOn: "a new shopify theme!"
+  workingOn: "a new shopify theme for the shopify theme store"
 }
 ```
 
